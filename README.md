@@ -1,4 +1,4 @@
-# Hi there! I'm Gabriela 👋
+# Hi there! I'm Gabriela 🐍
 
 - 🔒 I am currently working as an Information Security professional
 - ☁️ I am currently learning Python and Cloud
@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/Gabialteia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabialteia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabialteia&layout=compact&langs_count=7&theme=midnight-purple"/>
@@ -18,11 +18,11 @@
 
 ## 🛠️ Technologies I'm Learning
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriela-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Gabriela-Cloud" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img align="center" alt="Gabriela-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Gabriela-Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
+<div align="center">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Terraform" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg">
 </div>
 
 ---
